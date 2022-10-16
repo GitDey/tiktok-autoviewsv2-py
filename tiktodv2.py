@@ -101,8 +101,8 @@ def loop3():
     loop3()
 """
 
-vidUrl = "YOUR_URL" #Change YOUR_URL to your Tik Tok video URL
-username = "YOUR_USERNAME" #Change YOUR_USERNAME to your Tik Tok username
+vidUrl = "https://www.tiktok.com/@coinzat/video/7151728791872736518?is_from_webapp=1&sender_device=pc&web_id=7153820573088466438" #Change YOUR_URL to your Tik Tok video URL
+username = "coinzat" #Change YOUR_USERNAME to your Tik Tok username
 
 system("cls")
 tiktod = pyfiglet.figlet_format("TIKTOD V2", font="slant")
